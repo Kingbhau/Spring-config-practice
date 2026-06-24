@@ -1,7 +1,3 @@
-spring:
-  application:
-    name: order-service
-
 orders:
   items:
     - id: 1
