@@ -1,6 +1,6 @@
 products:
   items:
     - id: 1
-      name: product1-dev
+      name: product1-dev1
     - id: 2
       name: product2-dev
