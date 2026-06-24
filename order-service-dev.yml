@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: order-service
+
+orders:
+  items:
+    - id: 1
+      name: order-product1-dev
+    - id: 2
+      name: order-product2-dev
