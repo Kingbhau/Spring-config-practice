@@ -2,6 +2,6 @@
 orders:
   items:
     - id: 1
-      name: order-product1-dev
+      name: order-product1-dev1
     - id: 2
       name: order-product2-dev
