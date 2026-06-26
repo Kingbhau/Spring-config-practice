@@ -1,7 +1,0 @@
-
-orders:
-  items:
-    - id: 1
-      name: order-product1-bus
-    - id: 2
-      name: order-product2-bus
