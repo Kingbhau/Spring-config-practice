@@ -1,6 +1,0 @@
-orders:
-  items:
-    - id: 1
-      name: order-product1-prod
-    - id: 2
-      name: order-product2-prod
